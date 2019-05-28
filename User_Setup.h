@@ -2,7 +2,7 @@
 #define TFT_WIDTH 128
 // #define TFT_WIDTH  240 // ST7789 240 x 240 and 240 x 320
 #define TFT_HEIGHT 160
-#define ST7735_BLACKTAB
+#define ST7735_GREENTAB
 #define TFT_MOSI 23
 #define TFT_SCLK 18
 #define TFT_CS 5  // Chip select control pin
